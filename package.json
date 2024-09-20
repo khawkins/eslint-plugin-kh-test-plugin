@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/khawkins/eslint-plugin-kh-test-plugin/issues"
   },
-  "homepage": "https://github.com/khawkins/eslint-plugin-kh-test-plugin#readme"
+  "homepage": "https://github.com/khawkins/eslint-plugin-kh-test-plugin#readme",
+  "devDependencies": {
+    "@types/node": "^22.5.5",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.2"
+  }
 }
