@@ -18,6 +18,7 @@
   "homepage": "https://github.com/khawkins/eslint-plugin-kh-test-plugin#readme",
   "devDependencies": {
     "@types/node": "^22.5.5",
+    "@typescript-eslint/utils": "^8.6.0",
     "prettier": "^3.3.3",
     "typescript": "^5.6.2"
   }
